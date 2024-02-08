@@ -6,7 +6,8 @@
 🌍 Based in Lisbon, Portugal
       
 ## Skills:
-<img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/d7b524a604169d6c56436ebf43548a806be45007/images/javascript-colored.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/423d1e133e82fde52be5b6f753e001baecc959e8/images/html5-colored.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/d7b524a604169d6c56436ebf43548a806be45007/images/javascript-colored.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/2c8c8c0e5d6950e8b9db815d1f14c6db5f56e029/typescript-icon-svgrepo-com.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/423d1e133e82fde52be5b6f753e001baecc959e8/images/html5-colored.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/423d1e133e82fde52be5b6f753e001baecc959e8/images/css3-colored.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/423d1e133e82fde52be5b6f753e001baecc959e8/images/sass-colored.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/alexArdigo/alexArdigo/423d1e133e82fde52be5b6f753e001baecc959e8/images/react-colored.svg" width="50" height="50">
