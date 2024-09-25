@@ -2,7 +2,7 @@
 
 ### My name is Alexandre Ardigo
 
-🌱 I’m currently learning FrontEnd React in the UpSkill programme by ISCTE Sintra.<br>
+🌱 I’m a Full-Stack Web Developer.<br>
 🌍 Based in Lisbon, Portugal
       
 ## Skills:
